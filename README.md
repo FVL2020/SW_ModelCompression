@@ -6,13 +6,13 @@ This is the Pytorch implementation for "[A general model compression method for 
 
 The *SWConv* is depicted as follows:
 
-![image](https://github.com/xiaoj45/SW_ModelCompression/blob/main/figures/SWConv.pdf)
+![image](./figures/SWConv.png)
 
 ### SWConv-F
 
 The *SWConv-F* is depicted as follows:
 
-![image](https://github.com/xiaoj45/SW_ModelCompression/blob/main/figures/SWConv-F.pdf)
+![image](./figures/SWConv-F.png)
 
 ### SW-Models
 
